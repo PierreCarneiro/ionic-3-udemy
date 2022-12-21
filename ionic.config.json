@@ -1,0 +1,7 @@
+{
+  "name": "blackapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
